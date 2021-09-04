@@ -75,6 +75,6 @@ Currently our prototype supports the following features:
 * [Sahil Mhapsekar](https://www.github.com/apherio)
 * Archana Nanade
 
-### Special Thanks
+#### Special Thanks
 * Prof. Abhijeet Joshi
 * Prof. Neepa Shah
