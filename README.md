@@ -60,6 +60,9 @@ Currently our prototype supports the following features:
 * Users can use SMS Help Service or IVRS to receive details about nearby shelters.
 * Providing a system capable of allowing users to communicate using a Bluetooth based mesh network at a time of no cellular network availability.
 
+## Project Timeline
+01-01-2018 - 20-04-2018
+
 ## Credits:
 #### Team SyncX:
 * [Raj Patel](https://www.github.com/Raj-7799)
@@ -71,3 +74,7 @@ Currently our prototype supports the following features:
 #### Mentors:
 * [Sahil Mhapsekar](https://www.github.com/apherio)
 * Archana Nanade
+
+### Special Thanks
+* Prof. Abhijeet Joshi
+* Prof. Neepa Shah
