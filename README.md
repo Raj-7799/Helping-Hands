@@ -76,5 +76,5 @@ Currently our prototype supports the following features:
 * Archana Nanade
 
 #### Special Thanks
-* Prof. Abhijeet Joshi
-* Prof. Neepa Shah
+* Dr. Abhijeet Joshi
+* Dr. Neepa Shah
